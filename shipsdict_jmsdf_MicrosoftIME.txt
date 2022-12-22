@@ -1,0 +1,139 @@
+1	FFM-1  ‚à‚ª‚Ý	’Zk‚æ‚Ý	‚à‚ª‚ÝŒ^Œì‰qŠÍ
+2	FFM-2  ‚­‚Ü‚Ì	’Zk‚æ‚Ý	‚à‚ª‚ÝŒ^Œì‰qŠÍ
+3	FFM-3  ‚Ì‚µ‚ë	’Zk‚æ‚Ý	‚à‚ª‚ÝŒ^Œì‰qŠÍ
+91	ASY-91  ‚Í‚µ‚¾‚Ä	’Zk‚æ‚Ý	‚Í‚µ‚¾‚ÄŒ^“Á–±’ø
+101	DD-101  ‚Þ‚ç‚³‚ß	’Zk‚æ‚Ý	‚Þ‚ç‚³‚ßŒ^Œì‰qŠÍ
+102	DD-102  ‚Í‚é‚³‚ß	’Zk‚æ‚Ý	‚Þ‚ç‚³‚ßŒ^Œì‰qŠÍ
+103	DD-103  ‚ä‚¤‚¾‚¿	’Zk‚æ‚Ý	‚Þ‚ç‚³‚ßŒ^Œì‰qŠÍ
+104	DD-104  ‚«‚è‚³‚ß	’Zk‚æ‚Ý	‚Þ‚ç‚³‚ßŒ^Œì‰qŠÍ
+105	DD-105  ‚¢‚È‚Ã‚Ü	’Zk‚æ‚Ý	‚Þ‚ç‚³‚ßŒ^Œì‰qŠÍ
+106	DD-106  ‚³‚Ý‚¾‚ê	’Zk‚æ‚Ý	‚Þ‚ç‚³‚ßŒ^Œì‰qŠÍ
+107	DD-107  ‚¢‚©‚Ã‚¿	’Zk‚æ‚Ý	‚Þ‚ç‚³‚ßŒ^Œì‰qŠÍ
+108	DD-108  ‚ ‚¯‚Ú‚Ì	’Zk‚æ‚Ý	‚Þ‚ç‚³‚ßŒ^Œì‰qŠÍ
+109	DD-109  ‚ ‚è‚ ‚¯	’Zk‚æ‚Ý	‚Þ‚ç‚³‚ßŒ^Œì‰qŠÍ
+110	DD-110  ‚½‚©‚È‚Ý	’Zk‚æ‚Ý	‚½‚©‚È‚ÝŒ^Œì‰qŠÍ
+111	DD-111  ‚¨‚¨‚È‚Ý	’Zk‚æ‚Ý	‚½‚©‚È‚ÝŒ^Œì‰qŠÍ
+112	DD-112  ‚Ü‚«‚È‚Ý	’Zk‚æ‚Ý	‚½‚©‚È‚ÝŒ^Œì‰qŠÍ
+113	DD-113  ‚³‚´‚È‚Ý	’Zk‚æ‚Ý	‚½‚©‚È‚ÝŒ^Œì‰qŠÍ
+114	DD-114  ‚·‚¸‚È‚Ý	’Zk‚æ‚Ý	‚½‚©‚È‚ÝŒ^Œì‰qŠÍ
+115	DD-115  ‚ ‚«‚Ã‚«	’Zk‚æ‚Ý	‚ ‚«‚Ã‚«Œ^Œì‰qŠÍ
+116	DD-116  ‚Ä‚é‚Ã‚«	’Zk‚æ‚Ý	‚ ‚«‚Ã‚«Œ^Œì‰qŠÍ
+117	DD-117  ‚·‚¸‚Â‚«	’Zk‚æ‚Ý	‚ ‚«‚Ã‚«Œ^Œì‰qŠÍ
+118	DD-118  ‚Ó‚ä‚Ã‚«	’Zk‚æ‚Ý	‚ ‚«‚Ã‚«Œ^Œì‰qŠÍ
+119	DD-119  ‚ ‚³‚Ð	’Zk‚æ‚Ý	‚ ‚³‚ÐŒ^Œì‰qŠÍ
+120	DD-120  ‚µ‚ç‚Ê‚¢	’Zk‚æ‚Ý	‚ ‚³‚ÐŒ^Œì‰qŠÍ
+151	DD-151  ‚ ‚³‚¬‚è	’Zk‚æ‚Ý	‚ ‚³‚¬‚èŒ^Œì‰qŠÍ
+152	DD-152  ‚â‚Ü‚¬‚è	’Zk‚æ‚Ý	‚ ‚³‚¬‚èŒ^Œì‰qŠÍ
+153	DD-153  ‚ä‚¤‚¬‚è	’Zk‚æ‚Ý	‚ ‚³‚¬‚èŒ^Œì‰qŠÍ
+154	DD-154  ‚ ‚Ü‚¬‚è	’Zk‚æ‚Ý	‚ ‚³‚¬‚èŒ^Œì‰qŠÍ
+155	DD-155  ‚Í‚Ü‚¬‚è	’Zk‚æ‚Ý	‚ ‚³‚¬‚èŒ^Œì‰qŠÍ
+156	DD-156  ‚¹‚Æ‚¬‚è	’Zk‚æ‚Ý	‚ ‚³‚¬‚èŒ^Œì‰qŠÍ
+157	DD-157  ‚³‚í‚¬‚è	’Zk‚æ‚Ý	‚ ‚³‚¬‚èŒ^Œì‰qŠÍ
+158	DD-158  ‚¤‚Ý‚¬‚è	’Zk‚æ‚Ý	‚ ‚³‚¬‚èŒ^Œì‰qŠÍ
+173	DDG-173  ‚±‚ñ‚²‚¤	’Zk‚æ‚Ý	‚±‚ñ‚²‚¤Œ^Œì‰qŠÍ
+174	DDG-174  ‚«‚è‚µ‚Ü	’Zk‚æ‚Ý	‚±‚ñ‚²‚¤Œ^Œì‰qŠÍ
+175	DDG-175  ‚Ý‚å‚¤‚±‚¤	’Zk‚æ‚Ý	‚±‚ñ‚²‚¤Œ^Œì‰qŠÍ
+176	DDG-176  ‚¿‚å‚¤‚©‚¢	’Zk‚æ‚Ý	‚±‚ñ‚²‚¤Œ^Œì‰qŠÍ
+177	DDG-177  ‚ ‚½‚²	’Zk‚æ‚Ý	‚ ‚½‚²Œ^Œì‰qŠÍ
+178	DDG-178  ‚ ‚µ‚ª‚ç	’Zk‚æ‚Ý	‚ ‚½‚²Œ^Œì‰qŠÍ
+179	DDG-179  ‚Ü‚â	’Zk‚æ‚Ý	‚Ü‚âŒ^Œì‰qŠÍ
+180	DDG-180  ‚Í‚®‚ë	’Zk‚æ‚Ý	‚Ü‚âŒ^Œì‰qŠÍ
+181	DDH-181  ‚Ð‚ã‚¤‚ª	’Zk‚æ‚Ý	‚Ð‚ã‚¤‚ªŒ^Œì‰qŠÍ
+182	DDH-182  ‚¢‚¹	’Zk‚æ‚Ý	‚Ð‚ã‚¤‚ªŒ^Œì‰qŠÍ
+183	DDH-183  ‚¢‚¸‚à	’Zk‚æ‚Ý	‚¢‚¸‚àŒ^Œì‰qŠÍ
+184	DDH-184  ‚©‚ª	’Zk‚æ‚Ý	‚¢‚¸‚àŒ^Œì‰qŠÍ
+229	DE-229  ‚ ‚Ô‚­‚Ü	’Zk‚æ‚Ý	‚ ‚Ô‚­‚ÜŒ^Œì‰qŠÍ
+230	DE-230  ‚¶‚ñ‚Â‚¤	’Zk‚æ‚Ý	‚ ‚Ô‚­‚ÜŒ^Œì‰qŠÍ
+231	DE-231  ‚¨‚¨‚æ‚Ç	’Zk‚æ‚Ý	‚ ‚Ô‚­‚ÜŒ^Œì‰qŠÍ
+232	DE-232  ‚¹‚ñ‚¾‚¢	’Zk‚æ‚Ý	‚ ‚Ô‚­‚ÜŒ^Œì‰qŠÍ
+233	DE-233  ‚¿‚­‚Ü	’Zk‚æ‚Ý	‚ ‚Ô‚­‚ÜŒ^Œì‰qŠÍ
+234	DE-234  ‚Æ‚Ë	’Zk‚æ‚Ý	‚ ‚Ô‚­‚ÜŒ^Œì‰qŠÍ
+304	MSO-304  ‚ ‚í‚¶	’Zk‚æ‚Ý	‚ ‚í‚¶Œ^‘|ŠCŠÍ
+305	MSO-305  ‚Ð‚ç‚Ç	’Zk‚æ‚Ý	‚ ‚í‚¶Œ^‘|ŠCŠÍ
+306	MSO-306  ‚¦‚½‚¶‚Ü	’Zk‚æ‚Ý	‚ ‚í‚¶Œ^‘|ŠCŠÍ
+403	ASR-403  ‚¿‚Í‚â	’Zk‚æ‚Ý	‚¿‚Í‚âŒ^ö…ŠÍ‹~“ïŠÍ
+404	ASR-404  ‚¿‚æ‚¾	’Zk‚æ‚Ý	‚¿‚æ‚¾Œ^ö…ŠÍ‹~“ïŠÍ
+422	AOE-422  ‚Æ‚í‚¾	’Zk‚æ‚Ý	‚Æ‚í‚¾Œ^•â‹‹ŠÍ
+423	AOE-423  ‚Æ‚«‚í	’Zk‚æ‚Ý	‚Æ‚í‚¾Œ^•â‹‹ŠÍ
+424	AOE-424  ‚Í‚Ü‚È	’Zk‚æ‚Ý	‚Æ‚í‚¾Œ^•â‹‹ŠÍ
+425	AOE-425  ‚Ü‚µ‚ã‚¤	’Zk‚æ‚Ý	‚Ü‚µ‚ã‚¤Œ^•â‹‹ŠÍ
+426	AOE-426  ‚¨‚¤‚Ý	’Zk‚æ‚Ý	‚Ü‚µ‚ã‚¤Œ^•â‹‹ŠÍ
+463	MST-463  ‚¤‚ç‚ª	’Zk‚æ‚Ý	‚¤‚ç‚ªŒ^‘|ŠC•êŠÍ
+464	MST-464  ‚Ô‚ñ‚²	’Zk‚æ‚Ý	‚¤‚ç‚ªŒ^‘|ŠC•êŠÍ
+483	ARC-483  ‚Þ‚ë‚Æ	’Zk‚æ‚Ý	‚Þ‚ë‚ÆŒ^•~ÝŠÍ
+501	SS-501  ‚»‚¤‚è‚ã‚¤	’Zk‚æ‚Ý	‚»‚¤‚è‚ã‚¤Œ^ö…ŠÍ
+502	SS-502  ‚¤‚ñ‚è‚ã‚¤	’Zk‚æ‚Ý	‚»‚¤‚è‚ã‚¤Œ^ö…ŠÍ
+503	SS-503  ‚Í‚­‚è‚ã‚¤	’Zk‚æ‚Ý	‚»‚¤‚è‚ã‚¤Œ^ö…ŠÍ
+504	SS-504  ‚¯‚ñ‚è‚ã‚¤	’Zk‚æ‚Ý	‚»‚¤‚è‚ã‚¤Œ^ö…ŠÍ
+505	SS-505  ‚¸‚¢‚è‚ã‚¤	’Zk‚æ‚Ý	‚»‚¤‚è‚ã‚¤Œ^ö…ŠÍ
+506	SS-506  ‚±‚­‚è‚ã‚¤	’Zk‚æ‚Ý	‚»‚¤‚è‚ã‚¤Œ^ö…ŠÍ
+507	SS-507  ‚¶‚ñ‚è‚ã‚¤	’Zk‚æ‚Ý	‚»‚¤‚è‚ã‚¤Œ^ö…ŠÍ
+508	SS-508  ‚¹‚«‚è‚ã‚¤	’Zk‚æ‚Ý	‚»‚¤‚è‚ã‚¤Œ^ö…ŠÍ
+509	SS-509  ‚¹‚¢‚è‚ã‚¤	’Zk‚æ‚Ý	‚»‚¤‚è‚ã‚¤Œ^ö…ŠÍ
+510	SS-510  ‚µ‚å‚¤‚è‚ã‚¤	’Zk‚æ‚Ý	‚»‚¤‚è‚ã‚¤Œ^ö…ŠÍ
+511	SS-511  ‚¨‚¤‚è‚ã‚¤	’Zk‚æ‚Ý	‚»‚¤‚è‚ã‚¤Œ^ö…ŠÍ
+512	SS-512  ‚Æ‚¤‚è‚ã‚¤	’Zk‚æ‚Ý	‚»‚¤‚è‚ã‚¤Œ^ö…ŠÍ
+513	SS-513  ‚½‚¢‚°‚¢	’Zk‚æ‚Ý	‚½‚¢‚°‚¢Œ^ö…ŠÍ
+592	SS-592  ‚¤‚¸‚µ‚¨	’Zk‚æ‚Ý	‚¨‚â‚µ‚¨Œ^ö…ŠÍ
+593	SS-593  ‚Ü‚«‚µ‚¨	’Zk‚æ‚Ý	‚¨‚â‚µ‚¨Œ^ö…ŠÍ
+594	SS-594  ‚¢‚»‚µ‚¨	’Zk‚æ‚Ý	‚¨‚â‚µ‚¨Œ^ö…ŠÍ
+595	SS-595  ‚È‚é‚µ‚¨	’Zk‚æ‚Ý	‚¨‚â‚µ‚¨Œ^ö…ŠÍ
+596	SS-596  ‚­‚ë‚µ‚¨	’Zk‚æ‚Ý	‚¨‚â‚µ‚¨Œ^ö…ŠÍ
+597	SS-597  ‚½‚©‚µ‚¨	’Zk‚æ‚Ý	‚¨‚â‚µ‚¨Œ^ö…ŠÍ
+598	SS-598  ‚â‚¦‚µ‚¨	’Zk‚æ‚Ý	‚¨‚â‚µ‚¨Œ^ö…ŠÍ
+599	SS-599  ‚¹‚Æ‚µ‚¨	’Zk‚æ‚Ý	‚¨‚â‚µ‚¨Œ^ö…ŠÍ
+600	SS-600  ‚à‚¿‚µ‚¨	’Zk‚æ‚Ý	‚¨‚â‚µ‚¨Œ^ö…ŠÍ
+601	MSC-601  ‚Ð‚ç‚µ‚Ü	’Zk‚æ‚Ý	‚Ð‚ç‚µ‚ÜŒ^‘|ŠC’ø
+602	MSC-602  ‚â‚­‚µ‚Ü	’Zk‚æ‚Ý	‚Ð‚ç‚µ‚ÜŒ^‘|ŠC’ø
+603	MSC-603  ‚½‚©‚µ‚Ü	’Zk‚æ‚Ý	‚Ð‚ç‚µ‚ÜŒ^‘|ŠC’ø
+604	MSC-604  ‚¦‚Ì‚µ‚Ü	’Zk‚æ‚Ý	‚¦‚Ì‚µ‚ÜŒ^‘|ŠC’ø
+605	MSC-605  ‚¿‚¿‚¶‚Ü	’Zk‚æ‚Ý	‚¦‚Ì‚µ‚ÜŒ^‘|ŠC’ø
+606	MSC-606  ‚Í‚Â‚µ‚Ü	’Zk‚æ‚Ý	‚¦‚Ì‚µ‚ÜŒ^‘|ŠC’ø
+681	MSC-681  ‚·‚ª‚µ‚Ü	’Zk‚æ‚Ý	‚·‚ª‚µ‚ÜŒ^‘|ŠC’ø
+683	MSC-683  ‚Â‚Ì‚µ‚Ü	’Zk‚æ‚Ý	‚·‚ª‚µ‚ÜŒ^‘|ŠC’ø
+684	MSC-684  ‚È‚¨‚µ‚Ü	’Zk‚æ‚Ý	‚·‚ª‚µ‚ÜŒ^‘|ŠC’ø
+685	MSC-685  ‚Æ‚æ‚µ‚Ü	’Zk‚æ‚Ý	‚·‚ª‚µ‚ÜŒ^‘|ŠC’ø
+686	MSC-686  ‚¤‚­‚µ‚Ü	’Zk‚æ‚Ý	‚·‚ª‚µ‚ÜŒ^‘|ŠC’ø
+687	MSC-687  ‚¢‚¸‚µ‚Ü	’Zk‚æ‚Ý	‚·‚ª‚µ‚ÜŒ^‘|ŠC’ø
+688	MSC-688  ‚ ‚¢‚µ‚Ü	’Zk‚æ‚Ý	‚·‚ª‚µ‚ÜŒ^‘|ŠC’ø
+689	MSC-689  ‚ ‚¨‚µ‚Ü	’Zk‚æ‚Ý	‚·‚ª‚µ‚ÜŒ^‘|ŠC’ø
+690	MSC-690  ‚Ý‚â‚¶‚Ü	’Zk‚æ‚Ý	‚·‚ª‚µ‚ÜŒ^‘|ŠC’ø
+691	MSC-691  ‚µ‚µ‚¶‚Ü	’Zk‚æ‚Ý	‚·‚ª‚µ‚ÜŒ^‘|ŠC’ø
+692	MSC-692  ‚­‚ë‚µ‚Ü	’Zk‚æ‚Ý	‚·‚ª‚µ‚ÜŒ^‘|ŠC’ø
+824	PG-824  ‚Í‚â‚Ô‚³	’Zk‚æ‚Ý	‚Í‚â‚Ô‚³Œ^ƒ~ƒTƒCƒ‹’ø
+825	PG-825  ‚í‚©‚½‚©	’Zk‚æ‚Ý	‚Í‚â‚Ô‚³Œ^ƒ~ƒTƒCƒ‹’ø
+826	PG-826  ‚¨‚¨‚½‚©	’Zk‚æ‚Ý	‚Í‚â‚Ô‚³Œ^ƒ~ƒTƒCƒ‹’ø
+827	PG-827  ‚­‚Ü‚½‚©	’Zk‚æ‚Ý	‚Í‚â‚Ô‚³Œ^ƒ~ƒTƒCƒ‹’ø
+828	PG-828  ‚¤‚Ý‚½‚©	’Zk‚æ‚Ý	‚Í‚â‚Ô‚³Œ^ƒ~ƒTƒCƒ‹’ø
+829	PG-829  ‚µ‚ç‚½‚©	’Zk‚æ‚Ý	‚Í‚â‚Ô‚³Œ^ƒ~ƒTƒCƒ‹’ø
+2001	LCU-2001  —A‘—’ø‚P†	’Zk‚æ‚Ý	—A‘—’ø‚P†Œ^
+2002	LCU-2002  —A‘—’ø‚Q†	’Zk‚æ‚Ý	—A‘—’ø‚P†Œ^
+2101	LCAC-2101  ƒGƒAƒNƒbƒVƒ‡ƒ“’ø‚P†	’Zk‚æ‚Ý	ƒGƒAƒNƒbƒVƒ‡ƒ“’ø‚P†Œ^
+2102	LCAC-2102  ƒGƒAƒNƒbƒVƒ‡ƒ“’ø‚Q†	’Zk‚æ‚Ý	ƒGƒAƒNƒbƒVƒ‡ƒ“’ø‚P†Œ^
+2103	LCAC-2103  ƒGƒAƒNƒbƒVƒ‡ƒ“’ø‚R†	’Zk‚æ‚Ý	ƒGƒAƒNƒbƒVƒ‡ƒ“’ø‚P†Œ^
+2104	LCAC-2104  ƒGƒAƒNƒbƒVƒ‡ƒ“’ø‚S†	’Zk‚æ‚Ý	ƒGƒAƒNƒbƒVƒ‡ƒ“’ø‚P†Œ^
+2105	LCAC-2105  ƒGƒAƒNƒbƒVƒ‡ƒ“’ø‚T†	’Zk‚æ‚Ý	ƒGƒAƒNƒbƒVƒ‡ƒ“’ø‚P†Œ^
+2106	LCAC-2106  ƒGƒAƒNƒbƒVƒ‡ƒ“’ø‚U†	’Zk‚æ‚Ý	ƒGƒAƒNƒbƒVƒ‡ƒ“’ø‚P†Œ^
+3508	TV-3508  ‚©‚µ‚Ü	’Zk‚æ‚Ý	‚©‚µ‚ÜŒ^—ûKŠÍ
+3520	TV-3520  ‚Í‚½‚©‚º	’Zk‚æ‚Ý	‚Í‚½‚©‚ºŒ^—ûKŠÍ
+3521	TV-3521  ‚µ‚Ü‚©‚º	’Zk‚æ‚Ý	‚Í‚½‚©‚ºŒ^—ûKŠÍ
+3608	TSS-3608  ‚¨‚â‚µ‚¨	’Zk‚æ‚Ý	‚¨‚â‚µ‚¨Œ^—ûKö…ŠÍ
+3609	TSS-3609  ‚Ý‚¿‚µ‚¨	’Zk‚æ‚Ý	‚¨‚â‚µ‚¨Œ^—ûKö…ŠÍ
+4001	LST-4001  ‚¨‚¨‚·‚Ý	’Zk‚æ‚Ý	‚¨‚¨‚·‚ÝŒ^—A‘—ŠÍ
+4002	LST-4002  ‚µ‚à‚«‚½	’Zk‚æ‚Ý	‚¨‚¨‚·‚ÝŒ^—A‘—ŠÍ
+4003	LST-4003  ‚­‚É‚³‚«	’Zk‚æ‚Ý	‚¨‚¨‚·‚ÝŒ^—A‘—ŠÍ
+4202	ATS-4202  ‚­‚ë‚×	’Zk‚æ‚Ý	‚­‚ë‚×Œ^ŒP—ûŽx‰‡ŠÍ
+4203	ATS-4203  ‚Ä‚ñ‚è‚ã‚¤	’Zk‚æ‚Ý	‚Ä‚ñ‚è‚ã‚¤Œ^ŒP—ûŽx‰‡ŠÍ
+4301	AMS-4301  ‚Ð‚¤‚¿	’Zk‚æ‚Ý	‚Ð‚¤‚¿Œ^‘½—p“rŽx‰‡ŠÍ
+4302	AMS-4302  ‚·‚¨‚¤	’Zk‚æ‚Ý	‚Ð‚¤‚¿Œ^‘½—p“rŽx‰‡ŠÍ
+4303	AMS-4303  ‚ ‚Ü‚­‚³	’Zk‚æ‚Ý	‚Ð‚¤‚¿Œ^‘½—p“rŽx‰‡ŠÍ
+4304	AMS-4304  ‚°‚ñ‚©‚¢	’Zk‚æ‚Ý	‚Ð‚¤‚¿Œ^‘½—p“rŽx‰‡ŠÍ
+4305	AMS-4305  ‚¦‚ñ‚µ‚ã‚¤	’Zk‚æ‚Ý	‚Ð‚¤‚¿Œ^‘½—p“rŽx‰‡ŠÍ
+5003	AGB-5003  ‚µ‚ç‚¹	’Zk‚æ‚Ý	‚µ‚ç‚¹Œ^Ó•XŠÍ
+5104	AGS-5104  ‚í‚©‚³	’Zk‚æ‚Ý	‚Ó‚½‚ÝŒ^ŠC—mŠÏ‘ªŠÍ
+5105	AGS-5105  ‚É‚¿‚È‚ñ	’Zk‚æ‚Ý	‚É‚¿‚È‚ñŒ^ŠC—mŠÏ‘ªŠÍ
+5106	AGS-5106  ‚µ‚å‚¤‚È‚ñ	’Zk‚æ‚Ý	‚µ‚å‚¤‚È‚ñŒ^ŠC—mŠÏ‘ªŠÍ
+5201	AOS-5201  ‚Ð‚Ñ‚«	’Zk‚æ‚Ý	‚Ð‚Ñ‚«Œ^‰¹‹¿‘ª’èŠÍ
+5202	AOS-5202  ‚Í‚è‚Ü	’Zk‚æ‚Ý	‚Ð‚Ñ‚«Œ^‰¹‹¿‘ª’èŠÍ
+5203	AOS-5203  ‚ ‚«	’Zk‚æ‚Ý	‚Ð‚Ñ‚«Œ^‰¹‹¿‘ª’èŠÍ
+6102	ASE-6102  ‚ ‚·‚©	’Zk‚æ‚Ý	‚ ‚·‚©Œ^ŽŽŒ±ŠÍ
